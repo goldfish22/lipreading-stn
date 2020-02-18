@@ -5,6 +5,7 @@ Pretrain models on Grid and then finetune on VSA dataset.
 To pretrain models, run:
 
 ```python pytorchtransformer.py```
+
 To finetune models, run:
 
 ```python vsatransformer.py```
