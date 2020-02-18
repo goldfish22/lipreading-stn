@@ -11,6 +11,4 @@ To finetune models, run:
 
 ```python vsatransformer.py```
 
-spatial transformer network (STN) can be turned on while
-
-```stn_on=True```
+spatial transformer network (STN) can be turned on while```stn_on=True```
